@@ -1,6 +1,4 @@
-# Integrando Banco de Dados com Python
-
-# Sistema de Cadastro Bancário com SQLAlchemy
+# Sistema de Cadastro Bancário com SQLAlchemy (Integrando Banco de Dados com Python)
 
 Este projeto simula um sistema bancário simples com uso de **Python** e **SQLAlchemy ORM**, no qual é possível cadastrar clientes e suas respectivas contas bancárias (corrente ou poupança), armazenar esses dados em um banco SQLite em memória e realizar consultas estruturadas.
 
