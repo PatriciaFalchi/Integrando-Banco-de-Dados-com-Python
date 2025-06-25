@@ -4,7 +4,7 @@ Este projeto simula um sistema bancário simples com uso de **Python** e **SQLAl
 
 ## 📚 Tecnologias Utilizadas
 
-- Python 3.x  
+- Python  
 - SQLAlchemy (ORM)
 - SQLite (banco de dados em memória)
 
